@@ -23,6 +23,3 @@ This is the module that carries out the checks on the following user input:
 
 ### test_formatter
 This class or files carries out test from the pytest library on the various functions imported and used by the formatter module. This class checks if those functions passes or failes the objective of what they are to achieve. The file can be run automatically if the Developer uses PyCharm or IDE that is specifically built for Python, or the alternative method of python {file_name} such as: python test_formatter.py
-
-## Improvement
-Carrying out a more detailed writing of the test class to also cater for the raising of Exceptions that might occur from the Formatter module.
